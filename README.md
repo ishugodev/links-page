@@ -1,2 +1,2 @@
 # Links Page
-by @hugoishim
+by ishugo
